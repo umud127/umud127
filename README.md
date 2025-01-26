@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umud shahmarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umud shahmarov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umud-shahmarov-054202252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umud-shahmarov-054202252" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/the best" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="the best" height="30" width="40" /></a>
 <a href="https://medium.com/@umud127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umud127" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umudshahmarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umudshahmarov" height="30" width="40" /></a>
